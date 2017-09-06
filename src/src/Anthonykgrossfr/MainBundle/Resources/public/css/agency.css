@@ -1,0 +1,51 @@
+section#contact .form-group textarea.form-control{
+    height: 150px;
+}
+
+.btn-xl{
+    color: #fff;
+    background-color: #8fc400;
+    border-color: #75A000;
+}
+.btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
+    color: #fff;
+    background-color: #9ED803;
+    border-color: #75A000;
+}
+
+a {
+    color: #8fc400;
+}
+a:hover {
+    color: #9ED803;
+}
+
+.navbar-default .navbar-brand{
+    background-image: url("/bundles/anthonykgrossfrmain/images/logo.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 145px;
+}
+
+section#contact {
+    background-image: url("/bundles/anthonykgrossfrmain/images/bg_map.png");
+    background-position-y: 84%;
+    background-position-x: right;
+}
+#contact > .container > .row{
+    padding-bottom: 85px;
+}
+.text-muted{
+    color: #FFF;
+}
+.navbar-default, .navbar-default.navbar-shrink{
+    padding: 5px 0px;
+    background-color: #8FC400;
+}
+
+ul.social-buttons li a:hover,ul.social-buttons li a:active, ul.social-buttons li a:focus{
+    background-color: #9ED803;
+}
+::selection{
+    background: #9ED803;
+}

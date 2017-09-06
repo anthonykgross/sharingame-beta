@@ -1,0 +1,18 @@
+{
+  "name": "beta.sharingame.com",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.2.0",
+    "theme": "https://github.com/BlackrockDigital/startbootstrap-agency/archive/v1.0.6.zip"
+  }
+}

@@ -1,0 +1,3 @@
+anthonykgrossfr_main_homepage:
+    path:     /
+    defaults: { _controller: AnthonykgrossfrMainBundle:Default:index }
